@@ -1,0 +1,3 @@
+[submodule "projects/typescript-blank"]
+	path = projects/typescript-blank
+	url = git@github.com:project-quickstarts/typescript-blank.git
