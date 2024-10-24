@@ -1,3 +1,6 @@
 [submodule "projects/typescript-blank"]
 	path = projects/typescript-blank
 	url = git@github.com:project-quickstarts/typescript-blank.git
+[submodule "projects/nestjs-msv-api"]
+	path = projects/nestjs-msv-api
+	url = git@github.com:project-quickstarts/nestjs.git

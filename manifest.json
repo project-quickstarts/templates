@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "typescript-blank",
+      "description": "Typescript blank project"
+    },
+    {
+      "name": "nestjs-msv-api",
+      "description": "NestJS Microservice API (rabbitmq, redis, mongodb)"
+    }
+  ]
+}
