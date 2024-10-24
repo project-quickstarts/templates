@@ -4,3 +4,4 @@
 [submodule "projects/nestjs-msv-api"]
 	path = projects/nestjs-msv-api
 	url = git@github.com:project-quickstarts/nestjs.git
+  branch = microservice-api-rabbitmq
