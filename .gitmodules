@@ -5,3 +5,7 @@
 	path = projects/nestjs-msv-api
 	url = git@github.com:project-quickstarts/nestjs.git
   branch = microservice-api-rabbitmq
+[submodule "projects/nestjs-crud-api-sequelize"]
+	path = projects/nestjs-crud-api-sequelize
+	url = git@github.com:project-quickstarts/nestjs.git
+	branch = api-crud-sequelize
