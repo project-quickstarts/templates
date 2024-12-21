@@ -11,6 +11,10 @@
     {
       "name": "nestjs-crud-api-sequelize",
       "description": "NestJS CRUD API (sequelize, redis, RDBMS)"
+    },
+    {
+      "name": "go-empty",
+      "description": "Golang Empty Project"
     }
   ]
 }

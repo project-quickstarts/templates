@@ -9,3 +9,7 @@
 	path = projects/nestjs-crud-api-sequelize
 	url = git@github.com:project-quickstarts/nestjs.git
 	branch = api-crud-sequelize
+[submodule "projects/go-empty"]
+	path = projects/go-empty
+	url = git@github.com:project-quickstarts/golang.git
+	branch = empty
