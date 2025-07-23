@@ -16,3 +16,4 @@
 [submodule "projects/deno-cron"]
 	path = projects/deno-cron
 	url = git@github.com:project-quickstarts/deno.git
+  branch = deno-cron
