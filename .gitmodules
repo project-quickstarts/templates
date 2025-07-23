@@ -13,3 +13,6 @@
 	path = projects/go-empty
 	url = git@github.com:project-quickstarts/golang.git
 	branch = empty
+[submodule "projects/deno-cron"]
+	path = projects/deno-cron
+	url = git@github.com:project-quickstarts/deno.git
